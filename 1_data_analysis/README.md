@@ -14,6 +14,9 @@
     - `cd .kaggle`
     - `ls`
 
+2. Install Kaggle API
+
+    - `pip3 install kaggle`
 #### Download Dataset
 1. Korea Natural Gas Sales with Temperature [Kaggle](https://www.kaggle.com/datasets/zxtzxt30/korea-monthly-gas-sales-with-temperature)
 
