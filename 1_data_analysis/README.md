@@ -8,23 +8,28 @@
 
 1. Move `kaggle.json` in your desktop to `~/.kaggle/` in SSH
 
-    - `scp -P "Port" "Path" "ID"@"IP":/home/"USER"/.kaggle/`
-    - `cd ~`
-    - `ls -a`
-    - `cd .kaggle`
-    - `ls`
+    - `$ scp -P "Port" "Path" "ID"@"IP":/home/"USER"/.kaggle/`
+    - `$ cd ~`
+    - `$ ls -a`
+    - `$ cd .kaggle`
+    - `$ ls`
 
 2. Install Kaggle API
 
     - `pip3 install kaggle`
 
-3. Generate Directory Structure For Kaggle Dataset
+3. Clone this repository
 
-    - `mkdir data`: Make 'data' directory
-    - `cd data`: Move to 'data' directory
-    - `mkdir k-gas`: Make 'k-gas' directory
-    - `mkdir headgear`: Make 'headgear' directory
-    - `mkdir airb`: Make 'airb' directory
+    - `$ git clone https://github.com/Do-sensei/MLCL_2023.git`: Clone this repository in 'mlcl' directory
+
+
+4. Generate Directory Structure For Kaggle Dataset
+
+    - `~/MLCL_2023$ mkdir data`: Make 'data' directory
+    - `~/MLCL_2023$ cd data`: Move to 'data' directory
+    - `~/data$ mkdir k-gas`: Make 'k-gas' directory
+    - `~/data$ mkdir headgear`: Make 'headgear' directory
+    - `~/data$ mkdir airb`: Make 'airb' directory
 #### Download Dataset
 1. [Korea Natural Gas Sales with Temperature](https://www.kaggle.com/datasets/zxtzxt30/korea-monthly-gas-sales-with-temperature)
 
@@ -65,14 +70,11 @@
 
 #### Install Packages
 
-- `$conda install Ipykernel`: Install Ipykernel(Jypyter kernel for python)
-- `$conda install "Package Name"`
-- `$pip3 install "Package Name"`
+- `$ conda install Ipykernel`: Install Ipykernel(Jypyter kernel for python)
+- `$ conda install "Package Name"`
+- `$ pip3 install "Package Name"`
 
 ### 4. 📈 Data Analysis 
-
-- `cd ..`
-- `~/mlcl$ git clone https://github.com/Do-sensei/MLCL_2023.git`: Clone this repository in 'mlcl' directory
 
 #### 1. Korea Natural Gas Sales with Temperature
 
@@ -87,7 +89,7 @@
 
 - [Assignment](1_Assignment.ipynb)
 
-- ⏰ End of the assignment: 2023.06.21(WED) 23:59
+- ⏰ End of the assignment: **2023.06.21(WED) 23:59**
 
 - 📤 Upload your assignment to **your github repository** 
 
