@@ -9,15 +9,23 @@ AI Coding Practical Python Training for MLCL
     - [How to connect to the server](https://code.visualstudio.com/docs/remote/ssh)
 4. Prepare Terminal
     - [MovaXTerm](https://mobaxterm.mobatek.net/)
+    - Or you want to use
+        - Vscode Terminal
+        - [Termius](https://termius.com/)
+        - etc.
 
+5. Switch to `Github` Pro Account
+    - [Github Student Developer Pack](https://education.github.com/pack)
 ### 📚 Study 📖
  
 - ***Study*** [Pytorch Tutorial](https://pytorch.org/tutorials/) on your own when you have time
 
-- Get used to the ***terminal environment*** (commands, etc.)
-
 - Develop ***error-solving*** skills
 
+- Get used to the ***terminal environment*** (commands, etc.)
+
+- Get used to the `Github` environment (commit, push, pull, etc.)
+    - Whenever possible, work in an ***SSH environment***
 ## 1. 2023.06.15(THU) 14:20 & 2023.06.22(THU) 14:00
 
 ### 📈 Data Analysis 📊

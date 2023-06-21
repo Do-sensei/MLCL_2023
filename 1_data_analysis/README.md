@@ -76,14 +76,14 @@
 
 ### 4. 📈 Data Analysis 
 
-#### 1. Korea Natural Gas Sales with Temperature
+#### 1. Kaggle Dataset for class
 
 - [Korea Natural Gas Sales with Temperature](data_analysis_k-gas.ipynb)
 
 - [Headgear 20 classes-Image Classification](data_analysis_headgear.ipynb)
 
 - [🏠📝 Airbnb Reviews: Wanderers' Delight & Stays!✨](data_analysis_airb.ipynb)
-    - We will use the [`Bert`](https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment) model from Hugging Face
+    - We will use the `Bert` Model from [Hugging Face](https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment)
 
 
 #### 2. Assginment ✍️
@@ -95,7 +95,7 @@
 - 💻 In next class, we will check your assignment in your github repository
 ##### 1. Data Analysis
 
-- ⏰ End of the assignment: **2023.06.21(WED) 23:59** (Finished)
+- ⏰ End of the assignment: **2023.06.21(WED) 23:59** (*Finished*)
     - (k-gas) [Assignment](1_Assignment_k-gas.ipynb)
 
 - ⏰ End of the assignment: **2023.06.25(SUN) 23:59**
