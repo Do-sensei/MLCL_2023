@@ -39,13 +39,13 @@ AI Coding Practical Python Training for MLCL
     - [Headgear](1_data_analysis/data_analysis_headgear.ipynb)
     - [Airbnb](1_data_analysis/data_analysis_airb.ipynb)
 
-#### ❗Check Assginment❗
+#### ❗Check Assginment ✍️❗
 
 - [Notice](1_data_analysis/README.md)
 
-1. ~~*Due: 2023.06.21(WED) 23:59 (Fisinshed)*~~
-    - (k-gas) [Assignment](1_Assignment_k-gas.ipynb)
+1. ~~⏰ *2023.06.21(WED) 23:59 (Fisinshed)*~~
+    - [k-gas Assignment](1_data_analysis/1_Assignment_k-gas.ipynb)
 
-2. *Due: 2023.06.25(SUN) 23:59*
-    - (headgear) [Assignment](1_Assignment_headgear.ipynb)
-    - (airb) [Assignment](1_Assignment_airb.ipynb)
+2. ⏰ *2023.06.25(SUN) 23:59*
+    - [headgear Assignment](1_data_analysis/1_Assignment_headgear.ipynb)
+    - [airb Assignment](1_data_analysis/1_Assignment_airb.ipynb)
