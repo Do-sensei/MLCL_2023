@@ -26,16 +26,16 @@ AI Coding Practical Python Training for MLCL
 
 - Get used to the `Github` environment (commit, push, pull, etc.)
     - Whenever possible, work in an ***SSH environment***
-## 1. 2023.06.15(THU) 14:20 & 2023.06.22(THU) 14:00
+## 1. 1st and 2nd class
 
 ### 📈 Data Analysis 📊
 
 - [1_data_analysis](1_data_analysis)
 
-1. 2023.06.15(THU) 14:20
+1. 1st class: *2023.06.15(THU) 14:20*
     - [K-gas](1_data_analysis/data_analysis_k-gas.ipynb)
 
-2. 2023.06.22(THU) 14:00
+2. 2nd class: *2023.06.22(THU) 14:00*
     - [Headgear](1_data_analysis/data_analysis_headgear.ipynb)
     - [Airbnb](1_data_analysis/data_analysis_airb.ipynb)
 
@@ -43,9 +43,9 @@ AI Coding Practical Python Training for MLCL
 
 - [Notice](1_data_analysis/README.md)
 
-1. ~~Due: 2023.06.21(WED) 23:59 (Fisinshed)~~
+1. ~~*Due: 2023.06.21(WED) 23:59 (Fisinshed)*~~
     - (k-gas) [Assignment](1_Assignment_k-gas.ipynb)
 
-2. Due: 2023.06.25(SUN) 23:59
+2. *Due: 2023.06.25(SUN) 23:59*
     - (headgear) [Assignment](1_Assignment_headgear.ipynb)
     - (airb) [Assignment](1_Assignment_airb.ipynb)
