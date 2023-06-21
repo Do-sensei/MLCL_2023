@@ -82,18 +82,26 @@
 
 - [Headgear 20 classes-Image Classification](data_analysis_headgear.ipynb)
 
-- [🏠📝 Airbnb Reviews: Wanderers' Delight & Stays!✨]
-    - *To be updated*
+- [🏠📝 Airbnb Reviews: Wanderers' Delight & Stays!✨](data_analysis_airb.ipynb)
+    - We will use the [`Bert`](https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment) model from Hugging Face
+
 
 #### 2. Assginment ✍️
 
-- [Assignment](1_Assignment.ipynb)
-
-- ⏰ End of the assignment: **2023.06.21(WED) 23:59**
-
 - 📤 Upload your assignment to **your github repository** 
 
-    - ❗Caution❗: ***Do not upload Kaggle Dataset*** to your github repository
+- ❗Caution❗: ***Do not upload Kaggle Dataset*** to your github repository
 
 - 💻 In next class, we will check your assignment in your github repository
+##### 1. Data Analysis
+
+- ⏰ End of the assignment: **2023.06.21(WED) 23:59** (Finished)
+    - (k-gas) [Assignment](1_Assignment_k-gas.ipynb)
+
+- ⏰ End of the assignment: **2023.06.25(SUN) 23:59**
+    - (headgear) [Assignment](1_Assignment_headgear.ipynb)
+
+- ⏰ End of the assignment: **2023.06.25(SUN) 23:59**
+    - (airb) [Assignment](1_Assignment_airb.ipynb)
+
 
