@@ -95,8 +95,8 @@
 - 💻 In next class, we will check your assignment in your github repository
 ##### 1. Data Analysis
 
-- ⏰ End of the assignment: **2023.06.21(WED) 23:59** (*Finished*)
-    - (k-gas) [Assignment](1_Assignment_k-gas.ipynb)
+- ~~⏰ End of the assignment: **2023.06.21(WED) 23:59** (*Finished*)~~
+    - ~~(k-gas) [Assignment](1_Assignment_k-gas.ipynb)~~
 
 - ⏰ End of the assignment: **2023.06.25(SUN) 23:59**
     - (headgear) [Assignment](1_Assignment_headgear.ipynb)

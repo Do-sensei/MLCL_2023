@@ -1,7 +1,7 @@
 # MLCL_2023
 AI Coding Practical Python Training for MLCL
 
-### Prepare your environment💻 (Very Important)
+### Prepare your environment💻 (__Very Important__)
 
 1. Install [Vscode](https://code.visualstudio.com/) on your computer
 2. Install [Remote-SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) extension on your Vscode
@@ -14,7 +14,7 @@ AI Coding Practical Python Training for MLCL
         - [Termius](https://termius.com/)
         - etc.
 
-5. Switch to `Github` Pro Account
+5. Switch to `Github` Pro your Account
     - [Github Student Developer Pack](https://education.github.com/pack)
 ### 📚 Study 📖
  
@@ -43,7 +43,7 @@ AI Coding Practical Python Training for MLCL
 
 - [Notice](1_data_analysis/README.md)
 
-1. Due: 2023.06.21(WED) 23:59 (Fisinshed)
+1. ~~Due: 2023.06.21(WED) 23:59 (Fisinshed)~~
     - (k-gas) [Assignment](1_Assignment_k-gas.ipynb)
 
 2. Due: 2023.06.25(SUN) 23:59
