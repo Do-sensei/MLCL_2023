@@ -1,0 +1,15 @@
+# configs.yaml
+model:
+  input_size: 17  # number of features
+  hidden_size: 50  # size of hidden layer
+  # if you want to add more hidden layers, add more hidden_size with './utils/model_mlp.py'
+  output_size: 1  # output size
+
+training:
+  learning_rate: 0.001
+  num_epochs: 100
+  batch_size: 32
+
+paths:
+  data: '/home/djs/Python/mlcl/data/k-gas/Gas sales with temperature.csv'
+  model_save: './model/model.pth'

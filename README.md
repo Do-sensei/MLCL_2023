@@ -43,9 +43,25 @@ AI Coding Practical Python Training for MLCL
 
 - [Notice](1_data_analysis/README.md)
 
-1. ~~⏰ *2023.06.21(WED) 23:59 (Fisinshed)*~~
+1. ~~⏰ *2023.06.21(WED) 23:59 (Finished)*~~
     - [k-gas Assignment](1_data_analysis/1_Assignment_k-gas.ipynb)
 
-2. ⏰ *2023.06.25(SUN) 23:59*
+2. ~~⏰ *2023.06.25(SUN) 23:59 (Finished)*~~
     - [headgear Assignment](1_data_analysis/1_Assignment_headgear.ipynb)
     - [airb Assignment](1_data_analysis/1_Assignment_airb.ipynb)
+
+## 2. 3rd class
+
+### 🌡️ K-Gas with PyTorch 🤖
+
+- [2_k-gas](2_k-gas)
+
+3. 3rd class: *2023.06.26(MON) 14:00*
+    - [K-gas](2_k-gas/k_gas.ipynb)
+
+#### ❗Check Assginment ✍️❗
+
+- [Notice](2_k-gas/README.md)
+
+1. ⏰ *2023.06.27(TUE) 23:59*
+    - [k-gas Assignment](2_k-gas/Assginment/)
