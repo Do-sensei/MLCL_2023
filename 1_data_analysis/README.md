@@ -98,6 +98,6 @@
 - ~~⏰ End of the assignment: *2023.06.21(WED) 23:59* (*Finished*)~~
     - ~~[k-gas Assignment](1_Assignment_k-gas.ipynb)~~
 
-- ⏰ End of the assignment: *2023.06.25(SUN) 23:59*
-    - [headgear Assignment](1_Assignment_headgear.ipynb)
-    - [airb Assignment](1_Assignment_airb.ipynb)
+- ~~⏰ End of the assignment: *2023.06.25(SUN) 23:59* (*Finishied*)~~
+    - ~~[headgear Assignment](1_Assignment_headgear.ipynb)~~
+    - ~~[airb Assignment](1_Assignment_airb.ipynb)~~
