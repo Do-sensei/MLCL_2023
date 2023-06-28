@@ -27,7 +27,7 @@ AI Coding Practical Python Training for MLCL
 
 - Get used to the `Github` environment (commit, push, pull, etc.)
     - Whenever possible, work in an ***SSH environment***
-## 1. 1st and 2nd class
+## 1st and 2nd class
 
 ### 📈 Data Analysis 📊
 
@@ -51,7 +51,7 @@ AI Coding Practical Python Training for MLCL
     - [headgear Assignment](1_data_analysis/1_Assignment_headgear.ipynb)
     - [airb Assignment](1_data_analysis/1_Assignment_airb.ipynb)
 
-## 2. 3rd class
+## 3rd class
 
 ### 🌡️ K-Gas with PyTorch 🤖
 
@@ -64,10 +64,10 @@ AI Coding Practical Python Training for MLCL
 
 - [Notice](2_k-gas/README.md)
 
-- ~~⏰ Due to *2023.06.27(TUE) 23:59 (Finished)*~~
+- ~~⏰ Due to *2023.06.28(WED) 23:59 (Finished)*~~
     - [k-gas Assignment](2_k-gas/Assginment/)
 
-## 3. 4th class
+## 4th class
 
 ### ⛑️ PyTorch for Headgear Classification 🤖
 
@@ -82,7 +82,7 @@ AI Coding Practical Python Training for MLCL
 - ⏰ Due to *2023.07.02(SUN) 23:59*
     - [headgear Assignment](3_headgear/Assginment_classification/)
 
-## 4. 5th class
+## 5th class
 
 ### ⛑️ HeadGear Image Generation with PyTorch 🤖
 
@@ -95,7 +95,7 @@ AI Coding Practical Python Training for MLCL
 **Will be updated soon**
 
 
-## 5. 6th class
+## 6th class
 
 ### 🏠📝 Airbnb review Classification with PyTorch 🤖
 
@@ -107,7 +107,7 @@ AI Coding Practical Python Training for MLCL
 
 **Will be updated soon**
 
-## 6. 7th class
+## 7th class
 
 ### 👨‍💻 Introduction Project 👩‍💻
 
