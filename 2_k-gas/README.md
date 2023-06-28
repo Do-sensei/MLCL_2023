@@ -2,7 +2,7 @@
 
 ## 🌡️ K-Gas with PyTorch 🤖
 
-- ⏰ *2023.06.27(TUE) 23:59*
+- ~~⏰ Due to *2023.06.27(TUE) 23:59 (Finished)*~~
     - [k-gas Assignment](Assginment/)
 
 This repository contains code for a project that uses a Multilayer Perceptron (MLP) model implemented in PyTorch to forecast Temperature based on Gas Sales data.

@@ -12,6 +12,7 @@ AI Coding Practical Python Training for MLCL
     - Or you want to use
         - Vscode Terminal
         - [Termius](https://termius.com/)
+        - [Iterm2](https://iterm2.com/) for Mac
         - etc.
 
 5. Switch to `Github` Pro your Account
@@ -39,14 +40,14 @@ AI Coding Practical Python Training for MLCL
     - [Headgear](1_data_analysis/data_analysis_headgear.ipynb)
     - [Airbnb](1_data_analysis/data_analysis_airb.ipynb)
 
-#### ❗Check Assginment ✍️❗
+### ❗Check Assginment ✍️❗
 
 - [Notice](1_data_analysis/README.md)
 
-1. ~~⏰ *2023.06.21(WED) 23:59 (Finished)*~~
+1. ~~⏰ Due to *2023.06.21(WED) 23:59 (Finished)*~~
     - [k-gas Assignment](1_data_analysis/1_Assignment_k-gas.ipynb)
 
-2. ~~⏰ *2023.06.25(SUN) 23:59 (Finished)*~~
+2. ~~⏰ Due to *2023.06.25(SUN) 23:59 (Finished)*~~
     - [headgear Assignment](1_data_analysis/1_Assignment_headgear.ipynb)
     - [airb Assignment](1_data_analysis/1_Assignment_airb.ipynb)
 
@@ -56,12 +57,68 @@ AI Coding Practical Python Training for MLCL
 
 - [2_k-gas](2_k-gas)
 
-3. 3rd class: *2023.06.26(MON) 14:00*
+- 3rd class: *2023.06.26(MON) 14:00*
     - [K-gas](2_k-gas/k_gas.ipynb)
 
-#### ❗Check Assginment ✍️❗
+### ❗Check Assginment ✍️❗
 
 - [Notice](2_k-gas/README.md)
 
-1. ⏰ *2023.06.27(TUE) 23:59*
+- ~~⏰ Due to *2023.06.27(TUE) 23:59 (Finished)*~~
     - [k-gas Assignment](2_k-gas/Assginment/)
+
+## 3. 4th class
+
+### ⛑️ PyTorch for Headgear Classification 🤖
+
+- [3_headgear](3_headgear/Assginment_classification/)
+
+- 4th class: *2023.06.29(THU) 14:00*
+
+### ❗Check Assginment ✍️❗
+
+- [Notice](3_headgear/README.md)
+
+- ⏰ Due to *2023.07.02(SUN) 23:59*
+    - [headgear Assignment](3_headgear/Assginment_classification/)
+
+## 4. 5th class
+
+### ⛑️ HeadGear Image Generation with PyTorch 🤖
+
+- [3_headhear](3_headgear/Assginment_generation/)
+
+- 5th class: *2023.07.03(MON) 14:00*
+
+### ❗Check Assginment ✍️❗
+
+**Will be updated soon**
+
+
+## 5. 6th class
+
+### 🏠📝 Airbnb review Classification with PyTorch 🤖
+
+- [4_airb](4_airb/Assginment/Assginment/)
+
+- 6th class: *2023.07.05(WED) 14:00*
+
+### ❗Check Assginment ✍️❗
+
+**Will be updated soon**
+
+## 6. 7th class
+
+### 👨‍💻 Introduction Project 👩‍💻
+
+- 7th class: *2023.07.07(FRI) 14:00*
+
+### ❗Check Project ✍️❗
+
+**Will be updated soon**
+
+- ⏰ Due to *2023.07.11(TUE) 23:59*
+
+### 🧑‍🏫 Presentation your Project 🧑‍🏫
+
+- 8th class: *2023.07.12(WED) 14:00*
