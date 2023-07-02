@@ -1,7 +1,7 @@
 # MLCL_2023
 AI Coding Practical Python Training for MLCL
 
-### Prepare your environment💻 (__Very Important__)
+## Prepare your environment💻 (__Very Important__)
 
 1. Install [Vscode](https://code.visualstudio.com/) on your computer
 2. Install [Remote-SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) extension on your Vscode
@@ -17,7 +17,7 @@ AI Coding Practical Python Training for MLCL
 
 5. Switch to `Github` Pro your Account
     - [Github Student Developer Pack](https://education.github.com/pack)
-### 📚 Study 📖
+## 📚 Study 📖
  
 - ***Study*** [Pytorch Tutorial](https://pytorch.org/tutorials/) on your own when you have time
 
@@ -27,9 +27,9 @@ AI Coding Practical Python Training for MLCL
 
 - Get used to the `Github` environment (commit, push, pull, etc.)
     - Whenever possible, work in an ***SSH environment***
-## 1st and 2nd class
+# 1st and 2nd class
 
-### 📈 Data Analysis 📊
+## 📈 Data Analysis 📊
 
 - [1_data_analysis](1_data_analysis)
 
@@ -40,7 +40,7 @@ AI Coding Practical Python Training for MLCL
     - [Headgear](1_data_analysis/data_analysis_headgear.ipynb)
     - [Airbnb](1_data_analysis/data_analysis_airb.ipynb)
 
-### ❗Check Assginment ✍️❗
+## ❗Check Assginment ✍️❗
 
 - [Notice](1_data_analysis/README.md)
 
@@ -51,74 +51,76 @@ AI Coding Practical Python Training for MLCL
     - [headgear Assignment](1_data_analysis/1_Assignment_headgear.ipynb)
     - [airb Assignment](1_data_analysis/1_Assignment_airb.ipynb)
 
-## 3rd class
+# 3rd class
 
-### 🌡️ K-Gas with PyTorch 🤖
+## 🌡️ K-Gas with PyTorch 🤖
 
 - [2_k-gas](2_k-gas)
 
 - 3rd class: *2023.06.26(MON) 14:00*
     - [K-gas](2_k-gas/k_gas.ipynb)
 
-### ❗Check Assginment ✍️❗
+## ❗Check Assginment ✍️❗
 
 - [Notice](2_k-gas/README.md)
 
 - ~~⏰ Due to *2023.06.28(WED) 23:59 (Finished)*~~
     - [k-gas Assignment](2_k-gas/Assginment/)
 
-## 4th class
+# 4th class
 
-### ⛑️ PyTorch for Headgear Classification 🤖
+## ⛑️ PyTorch for Headgear Classification 🤖
 
 - [3_headgear](3_headgear/Assginment_classification/)
 
 - 4th class: *2023.06.29(THU) 14:00*
 
-### ❗Check Assginment ✍️❗
+## ❗Check Assginment ✍️❗
 
-- [Notice](3_headgear/README.md)
+- [Notice](3_headgear/Assginment_classification/README.md)
 
 - ⏰ Due to *2023.07.02(SUN) 23:59*
     - [headgear Assignment](3_headgear/Assginment_classification/)
 
-## 5th class
+# 5th class
 
-### ⛑️ HeadGear Image Generation with PyTorch 🤖
+## ⛑️ HeadGear Image Generation with PyTorch 🤖
 
 - [3_headhear](3_headgear/Assginment_generation/)
 
 - 5th class: *2023.07.03(MON) 14:00*
 
-### ❗Check Assginment ✍️❗
+## ❗Check Assginment ✍️❗
 
-**Will be updated soon**
+- [Notice](3_headgear/AAssginment_generation/README.md)
 
+- ⏰ Due to *2023.07.04(TUE) 23:59*
+    - [headgear Assignment](3_headgear/Assginment_generation/)
 
-## 6th class
+# 6th class
 
-### 🏠📝 Airbnb review Classification with PyTorch 🤖
+## 🏠📝 Airbnb review Classification with PyTorch 🤖
 
 - [4_airb](4_airb/Assginment/Assginment/)
 
 - 6th class: *2023.07.05(WED) 14:00*
 
-### ❗Check Assginment ✍️❗
+## ❗Check Assginment ✍️❗
 
 **Will be updated soon**
 
-## 7th class
+# 7th class
 
-### 👨‍💻 Introduction Project 👩‍💻
+## 👨‍💻 Introduction Project 👩‍💻
 
 - 7th class: *2023.07.07(FRI) 14:00*
 
-### ❗Check Project ✍️❗
+## ❗Check Project ✍️❗
 
 **Will be updated soon**
 
 - ⏰ Due to *2023.07.11(TUE) 23:59*
 
-### 🧑‍🏫 Presentation your Project 🧑‍🏫
+## 🧑‍🏫 Presentation your Project 🧑‍🏫
 
 - 8th class: *2023.07.12(WED) 14:00*
