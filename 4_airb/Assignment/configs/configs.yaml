@@ -1,0 +1,10 @@
+# configs/configs.yaml
+training:
+  learning_rate: 0.00005
+  batch_size: 16
+  num_epochs: 3
+  seed: 502
+
+paths:
+  data: /home/djs/Python/mlcl/data/airb/AirBNBReviews.csv
+  model_save_path: ./model/fine_tuned_model.pth

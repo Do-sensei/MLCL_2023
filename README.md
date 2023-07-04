@@ -65,13 +65,21 @@ AI Coding Practical Python Training for MLCL
 - [Notice](2_k-gas/README.md)
 
 - ~~⏰ Due to *2023.06.28(WED) 23:59 (Finished)*~~
+<<<<<<< HEAD
     - [k-gas Assignment](2_k-gas/Assginment/)
+=======
+    - [k-gas Assignment](2_k-gas/Assignment)
+>>>>>>> 23fb31d (update 6th class)
 
 # 4th class
 
 ## ⛑️ PyTorch for Headgear Classification 🤖
 
+<<<<<<< HEAD
 - [3_headgear](3_headgear/Assginment_classification/)
+=======
+- [3_headgear](3_headgear/Assginment_classification)
+>>>>>>> 23fb31d (update 6th class)
 
 - 4th class: *2023.06.29(THU) 14:00*
 
@@ -80,13 +88,21 @@ AI Coding Practical Python Training for MLCL
 - [Notice](3_headgear/Assginment_classification/README.md)
 
 - ~~⏰ Due to *2023.07.02(SUN) 23:59 (Finished)*~~
+<<<<<<< HEAD
     - [headgear Assignment](3_headgear/Assginment_classification/)
+=======
+    - [headgear Assignment](3_headgear/Assginment_classification)
+>>>>>>> 23fb31d (update 6th class)
 
 # 5th class
 
 ## ⛑️ HeadGear Image Generation with PyTorch 🤖
 
+<<<<<<< HEAD
 - [3_headhear](3_headgear/Assginment_generation/)
+=======
+- [3_headhear](3_headgear/Assginment_generation)
+>>>>>>> 23fb31d (update 6th class)
 
 - 5th class: *2023.07.03(MON) 14:00*
 
@@ -95,13 +111,21 @@ AI Coding Practical Python Training for MLCL
 - [Notice](3_headgear/AAssginment_generation/README.md)
 
 - ⏰ Due to *2023.07.04(TUE) 23:59*
+<<<<<<< HEAD
     - [headgear Assignment](3_headgear/Assginment_generation/)
+=======
+    - [headgear Assignment](3_headgear/Assginment_generation)
+>>>>>>> 23fb31d (update 6th class)
 
 # 6th class
 
 ## 🏠📝 Airbnb review Classification with PyTorch 🤖
 
+<<<<<<< HEAD
 - [4_airb](4_airb/Assginment/)
+=======
+- [4_airb](4_airb/Assginment)
+>>>>>>> 23fb31d (update 6th class)
 
 - 6th class: *2023.07.05(WED) 14:00*
 
@@ -110,7 +134,11 @@ AI Coding Practical Python Training for MLCL
 - [Notice](4_airb/README.md)
 
 - ⏰ Due to *2023.07.06(THU) 23:59*
+<<<<<<< HEAD
     - [airb Assignment](4_airb/Assginment/)
+=======
+    - [airb Assignment](4_airb/Assginment)
+>>>>>>> 23fb31d (update 6th class)
 
 # 7th class
 
