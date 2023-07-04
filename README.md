@@ -79,7 +79,7 @@ AI Coding Practical Python Training for MLCL
 
 - [Notice](3_headgear/Assginment_classification/README.md)
 
-- ⏰ Due to *2023.07.02(SUN) 23:59*
+- ~~⏰ Due to *2023.07.02(SUN) 23:59 (Finished)*~~
     - [headgear Assignment](3_headgear/Assginment_classification/)
 
 # 5th class
@@ -101,13 +101,16 @@ AI Coding Practical Python Training for MLCL
 
 ## 🏠📝 Airbnb review Classification with PyTorch 🤖
 
-- [4_airb](4_airb/Assginment/Assginment/)
+- [4_airb](4_airb/Assginment/)
 
 - 6th class: *2023.07.05(WED) 14:00*
 
 ## ❗Check Assginment ✍️❗
 
-**Will be updated soon**
+- [Notice](4_airb/README.md)
+
+- ⏰ Due to *2023.07.06(THU) 23:59*
+    - [airb Assignment](4_airb/Assginment/)
 
 # 7th class
 
@@ -119,8 +122,6 @@ AI Coding Practical Python Training for MLCL
 
 **Will be updated soon**
 
-- ⏰ Due to *2023.07.11(TUE) 23:59*
-
 ## 🧑‍🏫 Presentation your Project 🧑‍🏫
 
-- 8th class: *2023.07.12(WED) 14:00*
+- 8th class: *2023.07.14(FRI) 15:00*

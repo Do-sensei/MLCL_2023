@@ -1,8 +1,8 @@
-# [Assignment 4](./Assginment_classification/) HeadGear Classification with PyTorch
+# **[Assignment 4]** HeadGear Classification with PyTorch
 
 ## ⛑️ PyTorch for Headgear Classification 🤖
 
-- ⏰ Due Date: 2023.07.02(SUN) 23:59
+- ⏰ *Due Date: 2023.07.02(SUN) 23:59*
 
 Welcome to HeadGear classification using PyTorch and ResNet-50!
 
@@ -10,17 +10,17 @@ This project classifies different types of headgear (hats, helmets, etc.) using 
 
 ## Project Structure
 
-- `./configs/configs.yaml`: This file contains the configuration for the project, including the paths to the data and the model, the training parameters, and the model parameters. *Please modify this according to your paths*.
+- [`./configs/configs.yaml`](./configs/configs.yaml): This file contains the configuration for the project, including the paths to the data and the model, the training parameters, and the model parameters. *Please modify this according to your paths*.
 
-- `./utils/dataset.py`: This script defines the `HeadGearDataset` class for data loading and preprocessing.
+- [`./utils/dataset.py`](./utils/dataset.py): This script defines the `HeadGearDataset` class for data loading and preprocessing.
 
-- `./utils/resnet_50.py`: This script defines the `ResNet-50` class for the model.
+- [`./utils/resnet_50.py`](./utils/resnet_50.py): This script defines the `ResNet-50` class for the model.
 
-- `./utils/config.py`: This script is used to load the configurations from `configs.yaml`.
+- [`./utils/config.py`](./utils/config.py): This script is used to load the configurations from `configs.yaml`.
 
-- `training.py`: This script trains the model using the training data and validates it using the validation data. The trained model is then saved to the specified path.
+- [`training.py`](training.py): This script trains the model using the training data and validates it using the validation data. The trained model is then saved to the specified path.
 
-- `test.py`: This script loads the trained model and tests it using the test data.
+- [`test.py`](test.py): This script loads the trained model and tests it using the test data.
 
 ## How to Run
 
@@ -33,11 +33,11 @@ This project classifies different types of headgear (hats, helmets, etc.) using 
 
 3. Install the required packages.
 
-4. Modify the `configs.yaml` file according to your paths for training, validation, and test datasets, as well as model saving path and training parameters.
+4. Modify the [`./configs/configs.yaml`](./configs/configs.yaml) file according to your paths for training, validation, and test datasets, as well as model saving path and training parameters.
 
-5. Run `python training.py` to train the model. The trained model will be saved to the path specified in `configs.yaml`.
+5. Run `~$ python3 training.py` to train the model. The trained model will be saved to the path specified in [`./configs/configs.yaml`](./configs/configs.yaml).
 
-6. Run `test.py` to test the model on your test data. The test accuracy and F1 score will be printed on the console.
+6. Run `~$ python3 test.py` to test the model on your test data. The test accuracy and F1 score will be printed on the console.
 
 ## Data
 
@@ -57,7 +57,7 @@ The dataset contains various headgear categories such as ASCOT CAP, BASEBALL CAP
 
 The data is loaded using a custom data loader, which reads the CSV file, loads the images from the provided filepaths, and assigns the corresponding labels and class IDs.
 
-The provided `HeadGearDataset` class in `./utils/dataset.py` is responsible for loading and preprocessing the dataset. Please make sure to configure the dataset path and preprocessing steps in the `HeadGearDataset` class according to your dataset structure and requirements.
+The provided `HeadGearDataset` class in [`./utils/dataset.py`](./utils/dataset.py) is responsible for loading and preprocessing the dataset. Please make sure to configure the dataset path and preprocessing steps in the `HeadGearDataset` class according to your dataset structure and requirements.
 
 Note: The paths and structure of the dataset should be properly configured and aligned with the dataset used in this project.
 
@@ -80,4 +80,4 @@ The model is trained using the CrossEntropyLoss and the Adam optimizer. The trai
 
 The testing script loads the trained model parameters from a file and evaluates the model's performance on the test data. The accuracy and F1 score are calculated to measure the model's performance.
 
-*Note: Before running the code, make sure to modify the necessary parts such as file paths and dataset configuration in the ./configs/configs.yaml file to match your setup.*
+*Note: Before running the code, make sure to modify the necessary parts such as file paths and dataset configuration in the [./configs/configs.yaml](./configs/configs.yaml) file to match your setup.*

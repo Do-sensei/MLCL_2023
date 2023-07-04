@@ -1,15 +1,23 @@
-# [Assignment 4](./Assginment_classification/) HeadGear Classification with PyTorch
+# 4th class
+
+## ⛑️ PyTorch for Headgear Classification 🤖
+
+- 4th class: *2023.06.29(THU) 14:00*
+
+## [Assignment 4](./Assginment_classification/) HeadGear Classification with PyTorch
 
 - [Notice](./Assginment_classification/README.md)
 
-- ⏰ Due Date: 2023.07.02(SUN) 23:59
+- ~~⏰ *Due Date: 2023.07.02(SUN) 23:59(Finished)*~~
 
-This repository contains code for a project that uses a ResNet-50 model implemented in PyTorch to classify different types of headgear based on images.
+# 5th class
 
-# [Assignment 5](./Assginment_generation/) HeadGear Image Generation with PyTorch **Will be updated soon**
+## ⛑️ HeadGear Image Generation with PyTorch 🤖
+
+- 5th class: *2023.07.03(MON) 14:00*
+
+# [Assignment 5](./Assginment_generation/) HeadGear Image Generation with PyTorch 
 
 - [Notice](./Assginment_generation/README.md)
 
-- ⏰ Due Date: 2023.07.04(TUE) 23:59
-
-In this assignment, you will be using Deep Convolutional Generative Adversarial Networks (DCGAN) to generate images of headgears.
+- ⏰ *Due Date: 2023.07.04(TUE) 23:59*
