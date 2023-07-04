@@ -66,8 +66,6 @@ AI Coding Practical Python Training for MLCL
 
 - ~~⏰ Due to *2023.06.28(WED) 23:59 (Finished)*~~
 
-    - [k-gas Assignment](2_k-gas/Assginment/)
-
     - [k-gas Assignment](2_k-gas/Assignment)
 
 
@@ -75,8 +73,6 @@ AI Coding Practical Python Training for MLCL
 
 ## ⛑️ PyTorch for Headgear Classification 🤖
 
-
-- [3_headgear](3_headgear/Assginment_classification/)
 
 - [3_headgear](3_headgear/Assginment_classification)
 
@@ -89,8 +85,6 @@ AI Coding Practical Python Training for MLCL
 
 - ~~⏰ Due to *2023.07.02(SUN) 23:59 (Finished)*~~
 
-    - [headgear Assignment](3_headgear/Assginment_classification/)
-
     - [headgear Assignment](3_headgear/Assginment_classification)
 
 
@@ -98,8 +92,6 @@ AI Coding Practical Python Training for MLCL
 
 ## ⛑️ HeadGear Image Generation with PyTorch 🤖
 
-
-- [3_headhear](3_headgear/Assginment_generation/)
 
 - [3_headhear](3_headgear/Assginment_generation)
 
@@ -112,8 +104,6 @@ AI Coding Practical Python Training for MLCL
 
 - ⏰ Due to *2023.07.04(TUE) 23:59*
 
-    - [headgear Assignment](3_headgear/Assginment_generation/)
-
     - [headgear Assignment](3_headgear/Assginment_generation)
 
 
@@ -121,8 +111,6 @@ AI Coding Practical Python Training for MLCL
 
 ## 🏠📝 Airbnb review Classification with PyTorch 🤖
 
-
-- [4_airb](4_airb/Assginment/)
 
 - [4_airb](4_airb/Assginment)
 
@@ -135,7 +123,6 @@ AI Coding Practical Python Training for MLCL
 
 - ⏰ Due to *2023.07.06(THU) 23:59*
 
-    - [airb Assignment](4_airb/Assginment/)
 
     - [airb Assignment](4_airb/Assginment)
 
