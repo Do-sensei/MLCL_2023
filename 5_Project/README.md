@@ -12,7 +12,7 @@
 
 ## 📋 1. Project Brief
 
-Ready to test your passion? This project demands you build two distinct Deep Learning models using the power of PyTorch for fine-tuning. Each model will cater to a unique dataset from Kaggle. While you're free to pick any model, remember the key point is **Design DeepLearning Models!**
+Sharpen your skills! This challenge pushes you to build two distinct Deep Learning models using the robustness of PyTorch for fine-tuning. Each model will cater to a unique dataset from Kaggle. While you're allowed to select any model, remember the heart of this project is **Designing Deep Learning Models** Independently!
 
 ---
 
