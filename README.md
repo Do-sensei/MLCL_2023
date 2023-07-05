@@ -123,7 +123,6 @@ AI Coding Practical Python Training for MLCL
 
 - ⏰ Due to *2023.07.06(THU) 23:59*
 
-
     - [airb Assignment](4_airb/Assginment)
 
 
@@ -135,7 +134,11 @@ AI Coding Practical Python Training for MLCL
 
 ## ❗Check Project ✍️❗
 
-**Will be updated soon**
+[Notice](5_project/README.md)
+
+### 1.🦋 [Butterfly Image Dataset](https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification?select=train) 📸 
+
+### 2.🍔🍟 [McDonal's Store Reviews Dataset](https://www.kaggle.com/datasets/nelgiriyewithana/mcdonalds-store-reviews)📝 
 
 ## 🧑‍🏫 Presentation your Project 🧑‍🏫
 
