@@ -93,14 +93,14 @@ AI Coding Practical Python Training for MLCL
 ## ⛑️ HeadGear Image Generation with PyTorch 🤖
 
 
-- [3_headhear](3_headgear/Assginment_generation)
+- [3_headhear](./3_headgear/Assignment_generation/)
 
 
 - 5th class: *2023.07.03(MON) 14:00*
 
 ## ❗Check Assginment ✍️❗
 
-- [Notice](3_headgear/AAssginment_generation/README.md)
+- [Notice](./3_headgear/Assginment_generation/README.md)
 
 - ~~⏰ Due to *2023.07.04(TUE) 23:59(Finished)*~~
 
@@ -163,4 +163,4 @@ Equip yourself wisely for each dataset. You can select any pre-trained model fro
 
 ## 🧑‍🏫 Presentation your Project 🧑‍🏫
 
-- 8th class: *2023.07.14(FRI) 15:00*
+- 8th class: *2023.07.17(FRI) 14:00 or 15:00*
