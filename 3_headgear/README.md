@@ -16,8 +16,8 @@
 
 - 5th class: *2023.07.03(MON) 14:00*
 
-# [Assignment 5](./Assginment_generation/) HeadGear Image Generation with PyTorch 
+## [Assignment 5](./Assginment_generation/) HeadGear Image Generation with PyTorch 
 
 - [Notice](./Assginment_generation/README.md)
 
-- ⏰ *Due Date: 2023.07.04(TUE) 23:59*
+- ~~⏰ *Due Date: 2023.07.04(TUE) 23:59(Finished)*~~

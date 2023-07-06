@@ -102,7 +102,7 @@ AI Coding Practical Python Training for MLCL
 
 - [Notice](3_headgear/AAssginment_generation/README.md)
 
-- ⏰ Due to *2023.07.04(TUE) 23:59*
+- ~~⏰ Due to *2023.07.04(TUE) 23:59(Finished)*~~
 
     - [headgear Assignment](3_headgear/Assginment_generation)
 
@@ -134,11 +134,32 @@ AI Coding Practical Python Training for MLCL
 
 ## ❗Check Project ✍️❗
 
-[Notice](5_project/README.md)
+[Notice](5_Project/README.md)
 
-### 1.🦋 [Butterfly Image Dataset](https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification?select=train) 📸 
+❗ __**This is a solo project. Collaboration with others is strictly not allowed.**__ ❗
 
-### 2.🍔🍟 [McDonal's Store Reviews Dataset](https://www.kaggle.com/datasets/nelgiriyewithana/mcdonalds-store-reviews)📝 
+### 🗃️ Datasets
+
+Your journey will be with the following Kaggle datasets:
+
+1.🦋 [Butterfly Image Dataset](https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification?select=train) 📸 
+
+2.🍔🍟 [McDonal's Store Reviews Dataset](https://www.kaggle.com/datasets/nelgiriyewithana/mcdonalds-store-reviews)📝 
+
+
+- Your gateway to the datasets is through the `kaggle api`. Ensure to download them using this tool.
+- Windows OS isn't the preferred route; it has known compatibility issues with the `kaggle api`.
+
+
+### 💻 Pre-trained Models
+
+Equip yourself wisely for each dataset. You can select any pre-trained model from:
+
+1. [**Pytorch**](https://pytorch.org/vision/stable/models.html)
+
+2. [**Huggingface**](https://huggingface.co/models)
+
+> Note: You should use a different pre-trained model than the one you used in your Kaggle code.
 
 ## 🧑‍🏫 Presentation your Project 🧑‍🏫
 
