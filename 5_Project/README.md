@@ -1,12 +1,12 @@
 # 🚀 Deep Learning Project with PyTorch Fine-Tuning: Two Datasets, Two Challenges 🎯
 
-❗ __**This is a solo project. Collaboration with others is strictly not allowed.**__ ❗
+❗ **This is a solo project. Collaboration with others is strictly not allowed.** ❗
 
 ---
 
 ## 📅 Key Dates & Deadlines
 
-- **Event Date**: _2023.07.17 (MON)_. Mark your calendars for an afternoon session starting at 14:00 or 15:00.
+- **Event Date**: *2023.07.17 (MON)*. Mark your calendars for an afternoon session starting at 14:00 or 15:00.
 
 ---
 
@@ -78,6 +78,8 @@ Prepare two separate presentations, one for each model. Ensure to logically and 
 5. **Conclusion**: Summarize your key learnings, experiences, and potential future improvements.
 
 > 📊 Note: Visual representations are compulsory for the data analysis and model performance sections.
+
+> 📊 Note: You must explain your code and model architecture in detail during the presentation.
 
 ---
 
